@@ -14,7 +14,7 @@ I write about all the stuff I am exploring under [my personal notes](https://www
 
 My certifications can be found [here](../certif) and scientific publications [here](../publ)
 
-You can download my updated CV [here](../assets/230829_CV_LuisLopezFernandez.pdf)
+You can download my updated CV [here](../assets/CV_LuisLopezFernandez.pdf)
 ___
 
 ## 🔭 A bit more about me
