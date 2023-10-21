@@ -2,7 +2,7 @@
 
 Hello, my name is Luis. I am 33 years old living in St. Gallen, Switzerland.
 
-Currently I am working as a Machine Learning Engineer and Technology Project Manager at Hexagon Technology Center, where I design and implement AI-driven innovations, orchestrate transformative projects, and lead cross-functional teams towards exceeding our technological goals, bridging the gap between academic AI research and industry applications.
+Currently I am working as a Generative AI Lead & Technology Project Manager at [Hexagon](https://hexagon.com/) Innovation Hub, where I design and implement AI-driven innovations, orchestrate transformative projects, and lead cross-functional teams towards exceeding our technological goals, bridging the gap between academic AI research and industry applications.
 
 I am proud to be part of the Image & Point Cloud Analytics team, where I fuse technological advancements with real-world user needs, translating complex challenges into actionable, state-of-the-art AI-powered solutions. My role allows me to combine analytical problem-solving with creative ideation, shaping the very future of reality capture with AI.
 
